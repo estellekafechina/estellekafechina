@@ -1,5 +1,5 @@
 # dhiki.tech# 💫 About Me:
-👩‍💻 Étudiante en Mastère CTO & TECH LEAD<br>💼 Développeuse en apprentissage<br>📍 Passionnée par le développement applicatif, l’architecture logicielle et la résolution de problèmes.<br>🔧 J’aime apprendre, expérimenter, contribuer et améliorer des projets—surtout dans les environnements Python, Odoo, web et DevOps.<br>🚀 En apprentissage constant pour devenir une développeuse complète, autonome et créative.
+👩‍💻 Étudiante en Mastère CTO & TECH LEAD<br>💼 Développeuse en apprentissage<br>📍 Passionnée par le développement applicatif, l’architecture logicielle et la résolution de problèmes.<br>🔧 J’aime apprendre, expérimenter, contribuer et améliorer des projets surtout dans les environnements Python, Odoo, web et DevOps.<br>🚀 En apprentissage constant pour devenir une développeuse complète, autonome et créative.
 
 
 ## 🌐 Socials:
